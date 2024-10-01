@@ -7,17 +7,17 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "Human created bot",
+  "PREFIX": "!",
   "OPERATOR": [
     "100014896964436",
-    "100000959749712"
+    "100050848930506"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100050848930506",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["100050848930506"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
